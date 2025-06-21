@@ -61,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=dev-prasanna-sonawane&show_icons=true&theme=tokyonight" />
-  <img width="47%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-prasanna-sonawane&theme=tokyonight"/>
+  <!-- <img width="47%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-prasanna-sonawane&theme=tokyonight"/> -->
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-prasanna-sonawane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" alt="languages graph"  />
+  <img width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=dev-prasanna-sonawane&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-prasanna-sonawane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" width='47%' alt="languages graph"  />
 </div>
 
 ---
@@ -85,13 +85,11 @@
    <a href="mailto:prasanna.sonawane03@gmail.com"> 
      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/prasanna-sonawane"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="https://your-portfolio.com">
- <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
-   </a>
+ <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  /></a>
   <a href="https://x.com/Prasanna3132003">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 </div>
 
 ---
