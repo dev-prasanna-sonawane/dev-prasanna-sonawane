@@ -51,12 +51,12 @@
 #### 🧠 Backend & Databases:
 
 <div align="left">
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="12" />
@@ -67,12 +67,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- <img width="47%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-prasanna-sonawane&theme=tokyonight"/> -->
-</p>
+<!-- <p align="center">
+   <img width="47%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-prasanna-sonawane&theme=tokyonight"/> 
+</p>-->
 
 <div align="center">
-  <img width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=dev-prasanna-sonawane&show_icons=true&theme=tokyonight" />
+  <!-- <img width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=dev-prasanna-sonawane&show_icons=true&theme=tokyonight" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-prasanna-sonawane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" width='47%' alt="languages graph"  />
 </div>
 
